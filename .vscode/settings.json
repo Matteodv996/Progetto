@@ -1,0 +1,11 @@
+{
+    "vscode.tsc.compiler.alertTSConfigChanges": "never",
+    "cSpell.words": [
+        "apirul",
+        "csrf",
+        "fiscalcode"
+    ],
+    "cSpell.ignoreWords": [
+        "bootstrappers"
+    ]
+}
